@@ -43,3 +43,12 @@ const nums = [5, 3, 1, 4, 2];
 console.log(nums);
 const sorted = mergeSort(nums);
 console.log(sorted);
+
+/*
+Time Complexity:
+Best: O(n log n)
+Average: O(n log n)
+Worst: O(n log n)
+
+Space Complexity: O(n)
+*/

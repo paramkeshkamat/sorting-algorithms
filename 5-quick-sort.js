@@ -26,3 +26,14 @@ const nums = [5, 3, 1, 4, 2];
 console.log(nums);
 quickSort(nums);
 console.log(nums);
+
+/*
+Time Complexity:
+Best: O(n log n)
+Average: O(n log n)
+Worst: O(n^2)
+
+Space Complexity: 
+Average: O(log n)
+Worst: O(n)
+*/
